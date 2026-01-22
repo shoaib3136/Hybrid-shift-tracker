@@ -11,11 +11,17 @@ The purpose of the HybridShift Tracker is to track employee daily work modes
 
 ## Technology Stack
 •	Backend Framework: Spring Boot
+
 •	Language: Java
+
 •	Security: Spring Security + JWT
+
 •	Database: MySQL
+
 •	ORM: Spring Data JPA / Hibernate
+
 •	Testing Tool: Postman
+
 •	Build Tool: Maven
 
 ## System Architecture
