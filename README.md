@@ -1,9 +1,8 @@
 # HybridShift Tracker (Hybrid Work Tracking Portal)
 
 ## Introduction :
-```
 The HybridShift Tracker is a backend application developed to monitor and manage employee work modes in a hybrid working environment. The system enables employees to log their daily work mode (Remote / Office / Hybrid) while allowing administrators and managers to manage employees, monitor attendance, and analyze work distribution. The project is implemented using Spring Boot, JWT-based authentication, and role-based authorization.
-```
+
 ## Purpose of the System :
 The purpose of the HybridShift Tracker is to track employee daily work modes 
 –	Enforce secure access using authentication and roles 
